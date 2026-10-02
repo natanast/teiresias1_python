@@ -1,0 +1,28 @@
+##########################################################
+#                                                        #
+#                       FINAL RESULTS                    #
+#                                                        #
+##########################################################
+5	5	ARGPNISGGIAALIKGFRAGDWYFDL
+6	6	ARGPNISGGIAALI[KRH]GFRAGDWYFDL
+6	6	RGP.ISGGIAALIKGFRAGDWYFDL
+7	7	RGP.ISGGIAALI[KRH]GFRAGDWYFDL
+6	6	ARGPNISGGIA.LIKGFRAGDWYFDL
+7	7	RGP.ISGGIA.LIKGFRAGDWYFDL
+7	7	ARGPNISGGIA.LI[KRH]GFRAGDWYFDL
+8	8	RGP.ISGGIA.LI[KRH]GFRAGDWYFDL
+9	9	FD[AVLI]
+8	7	[AVLI]RG
+2	2	[AVLI]L.R
+9	9	RA..W
+2	2	A...RG..[AVLI]
+10	9	RG..[AVLI]
+9	9	G.I[AVLI]
+15	8	G.[AVLI]A
+2	2	[AVLI].L.R
+16	8	I.G..A
+8	7	S.G..[AVLI]
+14	7	G..A[AVLI]
+15	8	G..A.[AVLI]
+2	2	[ST]..G.I
+9	9	A...[KRH]G
